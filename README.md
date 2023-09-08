@@ -19,4 +19,5 @@ PyYAML 6.0
 Caveats:
 
 Currently doesn't support more than 3 channels for outputing composites
+
 Change log:
