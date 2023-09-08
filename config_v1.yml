@@ -2,7 +2,7 @@ settings:
 # input
     directory: "."
     filename: 'ALL'
-# scaling/adjusting intensity
+# intensity histogram scaling
     convert_16_to_8bit: False
     scale_image: True
     auto_scale: True
